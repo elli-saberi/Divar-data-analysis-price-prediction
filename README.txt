@@ -1,6 +1,6 @@
 Divr Price Prediction ML
 
-Data analysis and machine learning project for predicting real estate prices using **Divar dataset**.  
+Data analysis and machine learning project for predicting real estate prices using Divar dataset.  
 
 
 
